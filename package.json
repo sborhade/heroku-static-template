@@ -1,0 +1,32 @@
+{
+  "name": "heroku-static-template",
+  "version": "1.0.0",
+  "description": "Template for deploying static HTML sites to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikavikondala/heroku-static-template.git"
+  },
+  "keywords": [
+    "Heroku",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "rishikavikondala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishikavikondala/heroku-static-template/issues"
+  },
+  "homepage": "https://github.com/rishikavikondala/heroku-static-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.11.1"
+ }
+}
